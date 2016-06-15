@@ -1,0 +1,10 @@
+{
+  "name": "is-browser",
+  "homepage": "https://github.com/ForbesLindesay/is-browser",
+  "main": "server.d.ts",
+  "brower": "client.d.ts",
+  "version": "^2.0.0",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160610031852"
+  }
+}
